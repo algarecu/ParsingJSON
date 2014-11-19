@@ -1,5 +1,5 @@
 # Sample script using YajlParser
-# Taken from: 
+
 # https://github.com/pykler/yajl-py/blob/master/examples/yajl_py_example.py
 # Be aware it might take some time to parse large files.
 
