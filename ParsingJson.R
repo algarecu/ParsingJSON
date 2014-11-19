@@ -36,9 +36,4 @@ text(1:5, par("usr")[3] - 0.5, srt = 45, adj = 1,
 
 ### DOTCHART
 dotchart(tab, main = "dotchart of events", xaxt="n", xlab = "")
-
-
-## or just this
-## dotchart(table(dat))
-## and ignore the warning
 layout(1) 
