@@ -1,5 +1,5 @@
 # author: alvaro.garcia-recuero at inria.fr
-short="/Users/agarciar/Documents/dataset/short.csv"
+short="~/Documents/dataset/short.csv"
 myfile <- read.csv(file=short, header=FALSE)
 colnames(myfile) <- c("Timestamp","UserId","Event")
 
